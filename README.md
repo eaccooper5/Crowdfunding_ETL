@@ -14,10 +14,50 @@ Project 2 ETL [files](Resources/)
 * The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories 
 * The DataFrame has a "category" column that contains only the category titles 
 * The category DataFrame is exported as 'category.csv'
+```
+category_id,category
+cat1,food
+cat2,music
+cat3,technology
+cat4,theater
+cat5,film & video
+cat6,publishing
+cat7,games
+cat8,photography
+cat9,journalism
+```
 ##### Subcategory
 * The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
 * The DataFrame contains a "subcategory" column that contains only the subcategory titles
 * The subcategory DataFrame is exported as subcategory.csv
+```
+subcategory_id,subcategory
+subcat1,food trucks
+subcat2,rock
+subcat3,web
+subcat4,plays
+subcat5,documentary
+subcat6,electric music
+subcat7,drama
+subcat8,indie rock
+subcat9,wearables
+subcat10,nonfiction
+subcat11,animation
+subcat12,video games
+subcat13,shorts
+subcat14,fiction
+subcat15,photography books
+subcat16,radio & podcasts
+subcat17,metal
+subcat18,jazz
+subcat19,translations
+subcat20,television
+subcat21,mobile games
+subcat22,world music
+subcat23,science fiction
+subcat24,audio
+
+```
 
 ### Create the Campaign DataFrame
 * The DataFrame has the following columns:
