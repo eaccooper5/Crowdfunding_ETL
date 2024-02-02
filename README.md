@@ -4,9 +4,12 @@
  **Objective:**
  To practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, upload the CSV file data into a Postgres database.
 
-##### Files
 
-Project 2 ETL [files](Resources/)
+##### Website and files: 
+[Project 2 ETL](https://github.com/eaccooper5/Crowdfunding_ETL.git)
+[ETL and Resource Files](Resources/)
+[SQL Files and Relational Diagram](crowdfunding_sql/)
+[Image of Relational Diagram](crowdfunding_sql/crowdfunding_db_relationsDiagram.png)
 
 ## Requirements
 ### Create the Category and Subcategory DataFrames
@@ -54,6 +57,13 @@ Project 2 ETL [files](Resources/)
 * Each CSV file is imported into the appropriate table without errors 
 * The data from each table is displayed using a SELECT * statement 
 
+## Collaboration
+This project was a collaboration between Reed Erickson and Erin Cooper with most communication done over Slack and Zoom conference.
+
+## Contact
+If there are any questions or concerns, we can be reached at:
+##### [email: erinaccooper@gmail.com](mailto:erinaccooper@gmail.com)
+##### [email: reed.erickson19@gmail.com](mailto:reed.erickson19@gmail.com)
 
 ________________________________
 ________________________________
